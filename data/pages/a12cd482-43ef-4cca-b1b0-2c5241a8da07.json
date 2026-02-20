@@ -404,6 +404,41 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/Picture1.jpg",
+      "caption": "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, ‘Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia’, in The Shoah in Ukraine: History, Testimony, Memorialization, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137. ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Map of Eastern Galicia, reproduced with permission from IUP from Frank Golczewski, ‘Shades of Grey: Reflections on Jewish-Ukrainian and German-Ukrainian Relations in Galicia’, in The Shoah in Ukraine: History, Testimony, Memorialization, ed. Ray Brandon and Wendy Lower (Bloomington: Indiana University Press, 2008, p. 137. ",
+          "textSize": "small"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This sort of popular violence erupted with and without the direct involvement of the Germans. Indeed, the pogroms may have emboldened Nazi leaders who realized that they could find plenty of support on the ground for their own more extreme genocidal campaign of a “Final Solution.” Reichsführer of the SS-police Heinrich Himmler unleashed his motorized shooting squads and deployed mobile gas vans to murder Jews and Soviet POWs across the Soviet Union, then commissioned architects and gassing experts to construct the first stationary killing centers in Nazi-occupied Poland. Hauser’s region of western Ukraine fell within the borders of Nazi-occupied Poland (known as the General Government), as did the Sobibor, Treblinka, and Belzec camps. Of the more than 540,000 Jews in Hauser’s region, about 200,000 were killed in or near their hometowns in pogroms, mass shootings, and smaller massacres in or near ghettos and labor camps. The remainder, about 345,000, were deported and gassed immediately, mostly at Belzec.  Hauser’s story combines these two histories of the Holocaust – murder by bullets, and the industrialized murders in the camps."
         }
       ]
@@ -500,6 +535,36 @@
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/Picture2.jpg",
+      "caption": "Hauser holds the book Antworte Mensch, 00:17:24.52.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hauser holds the book Antworte Mensch, 00:17:24.52.",
+          "textSize": "small"
+        },
         {
           "text": " "
         }
@@ -783,7 +848,7 @@
   "created_at": "2026-02-20T18:45:42.867Z",
   "created_by": "GothArchivist",
   "title": "Eric “Isaak” Hauser Critical Edition",
-  "updated_at": "2026-02-20T19:24:30.594Z",
+  "updated_at": "2026-02-20T19:40:34.049Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
     "enabled": false,
