@@ -14,7 +14,7 @@
   "project": {
     "github_org": "GothArchivist",
     "is_private": false,
-    "title": "Sidney BruskinCritical Edition",
+    "title": "Sidney Bruskin Critical Edition",
     "description": "The Critical Editions Series contextualizes Fortunoff Video testimonies in their historical time and place. Each testimony in the series was chosen by one of our visiting scholars. Each scholar then produced an introductory essay about the chosen testimony, along with an annotated transcript that provides additional insight and background information.",
     "language": "en",
     "slug": "ce-esther-fox",
@@ -28,7 +28,7 @@
       "tags": []
     },
     "created_at": "2026-02-20T18:45:42.830Z",
-    "updated_at": "2026-02-20T19:00:14.793Z",
+    "updated_at": "2026-02-20T19:00:30.967Z",
     "generate_pages_site": false
   },
   "annotations": {},
