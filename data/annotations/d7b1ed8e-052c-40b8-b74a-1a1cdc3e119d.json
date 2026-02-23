@@ -1,0 +1,827 @@
+{
+  "event_id": "6e02f9cd-38ef-4a6d-b2a6-7624cfa84ebd",
+  "source_id": "748cb50b-ae0c-4dd2-94de-ff755bc3e37e",
+  "set": "mssa_hvt_574_p2of2_transcript.txt [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 49.88,
+      "annotation": [
+        {
+          "text": "\t\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "7358a556-2af0-4912-a6f6-d14ff887307c"
+    },
+    {
+      "start_time": 49.88,
+      "end_time": 84.91,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: '44, I think March or so. In March 1944, I was permitted to go out of the camp from time to time, also out of the office from time to time, because I had to do some technical work at the oil wells when I had to measure a piece of equipment, essentially. And we had at that time a very good man. We had at that time a man called Fischer, Alfred Fischer. Alfred Fischer was a German supervisor.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9765583c-dbc5-4107-8b98-95d478986644"
+    },
+    {
+      "start_time": 84.91,
+      "end_time": 120.77,
+      "annotation": [
+        {
+          "text": "\tI have submitted his name to Yad Vashem to give him the title as a Righteous Gentile because he really helped us. He saved us. When sometimes the militia was running in and looking around for Jewish women without R, he would look the other side while I would-- there was an attic above our office. There was a ladder going to the attic. I would push the women up, shove the ladder in, the ladder in so nobody would go down there. Fischer stood at the door when the policemen came. Where are the women without R. He would say there are no women without R.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "acbe38ec-d10b-4ed4-95e2-8c83d919dfc9"
+    },
+    {
+      "start_time": 120.77,
+      "end_time": 156.74,
+      "annotation": [
+        {
+          "text": "\tHe also gave us bread from time to time. A German was permitted unlimited amounts of bread. He could go to the bakery and bring-- of course, he couldn't take a car-- but six, seven loaves, much as he could carry he would bring. He was bring it into the office. He had a special knife. He cut it into even slices. My wife is very good at making these slices very even. So and we distributed them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "db812c0a-0a8f-48ce-bfa4-4a223755c9a3"
+    },
+    {
+      "start_time": 156.74,
+      "end_time": 179.51,
+      "annotation": [
+        {
+          "text": "\tHe also looked the other way when one needed such a passport to go out of the office. He had a helper who typed for him. And his helper signed his name. And he looked the other way. And whenever we needed to go out to do something, you know, to barter something, he could get such a pass and go out and help ourselves. He was a very good man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "c1a99833-3362-4b23-9549-81861d88f211"
+    },
+    {
+      "start_time": 179.51,
+      "end_time": 206.15,
+      "annotation": [
+        {
+          "text": "\tHis work in the office was rather ingenious. The Germans had an idea since they were controlling practically half of Europe and materials were scarce. So all the materials were given numbers, something similar what is now done by computerization but in a rough form. Let's say brick had a number, 001. Portland cement had a number, 002, and so on and so forth.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a07be17-d431-436b-be51-c07311bf21e8"
+    },
+    {
+      "start_time": 206.15,
+      "end_time": 236.76,
+      "annotation": [
+        {
+          "text": "\tAll the parts of an automobile, of a drilling machine, all had numbers. When they needed such a part, they could via telegraph fire flash around a message all over Europe. And they could get, let's say, 001, there's so much 001 in Poland and that from the Ukraine. And we worked on this. That was essential work. It required technical skill and knowledge and I did it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "221529fa-cf4e-4e48-b85b-615520567979"
+    },
+    {
+      "start_time": 236.76,
+      "end_time": 278.22,
+      "annotation": [
+        {
+          "text": "\tWell, the Russians came closer and closer. And there were some Poles whom I could see when I went out of the camp. And they kept telling me-- they listened to clandestine radios-- the Russians are already on the Tarnopol, which was something like 150 miles from us, and so on. So I decided, with my wife-- and we knew that if the Russians come in very close they will liquidate the camp. And the only way of liquidation is by killing everybody or by carrying them off to killing camps, to annihilation camp, which is practically the same.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3edd56c0-43fd-46d1-8bd1-3436f63c09a8"
+    },
+    {
+      "start_time": 278.22,
+      "end_time": 309.68,
+      "annotation": [
+        {
+          "text": "\tSo I made out a pass for my wife. And she has to help me looking for something. And we got out of the camp. I managed to bribe my way into one of those-- I did not trust. I had made, in the camp, a tunnel. But I even installed electrical lights. But too many people knew about it. This tunnel could hold 40 people. And it had, we dug it til we came to the root of a tree.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c83ac27-6888-446b-9df5-fa312beeebd4"
+    },
+    {
+      "start_time": 309.68,
+      "end_time": 340.89,
+      "annotation": [
+        {
+          "text": "\tAnd we made such a door so we lifted out the roots of the tree, we could crawl out and then put the tree back. It looked like a tree is there. But too many people knew about it. Because they had to help me to hide out-- digging is not such-- first of all, it's dangerous. Something can fall on you. But disregarding the danger, where do you hide the earth? We carried the earth in buckets and hid it there and hid it all over and spread it all around.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "406567a6-0715-4377-9aa3-367afb141122"
+    },
+    {
+      "start_time": 340.89,
+      "end_time": 375.54,
+      "annotation": [
+        {
+          "text": "\tSo I decided to find another hiding place. And since I was well known, somebody offered me a hiding place for money. It's supposed to be only the two of us in the attic of a Ukrainian peasant. When I came in, there were already 16 people down there. The attic was as big as this room. There were 16 of us and a small child. Well, we hoped that it wouldn't take any long. So we sat down there.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2a36dc9-9e29-4d1c-b577-a46867303e9e"
+    },
+    {
+      "start_time": 375.54,
+      "end_time": 404.86,
+      "annotation": [
+        {
+          "text": "\tWe made among us an arrangement that anybody who gets sick, the other ones will strangle him. Because you couldn't bring a doctor. The trouble was with the child. How do you teach a child, which is four years old, some sense? The attic had a tar paper roof and there were holes in this room. And this child played by pushing a finger through these holes.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "372eb7b9-5c3c-4f80-bb6b-df030f715338"
+    },
+    {
+      "start_time": 404.86,
+      "end_time": 437.78,
+      "annotation": [
+        {
+          "text": "\tAnd it would only what we need is that somebody was walking by and seeing a finger sticking out of this hole and notifying the German police. The father of the child wanted to strangle it. I had to physically constrain him. He grabbed it and tried to strangle it. Well, somehow we survived. Somehow we survived. The Russians came in.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f279e370-f981-42ae-ad76-d6067ffe78dd"
+    },
+    {
+      "start_time": 437.78,
+      "end_time": 441.02,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: How long were you in that attic?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5649d6e3-4bf9-4995-974c-6cb14bc5a9c0"
+    },
+    {
+      "start_time": 441.02,
+      "end_time": 483.37,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Uh, six weeks. My feet were swollen like this because you cannot move. It's surprising. If you sit and don't move in such an uncomfortable position, human feet swell. Also, we didn't have the right food. The landlady, whenever she wanted to cook, cooked a big bowl of potato soup or something. And sometimes she baked bread. We had some dried bread, which we brought with us. Well, we had a few lumps of sugar. It's amazing how long you can survive on a lump of sugar. On a lump of sugar and a little bit of water, one can survive 24 hours easily, without any difficulty.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4b024f4b-72bd-4856-9074-2b4c139de503"
+    },
+    {
+      "start_time": 483.37,
+      "end_time": 518.61,
+      "annotation": [
+        {
+          "text": "\tThe Russians came in. I had somewhere hidden in one of my shoes a Russian ID. After all, I was an engineer during the Russian time. A piece of paper, which was given to me, I don't know which was that I have to do this or that. The Russians came in. We were full of joy. Here are the liberators. On this Russian ID it was written that I was a Jew, Ivrit. Ivrit is called in Hebrew, from Hebrew, Ivrit. As soon as the Russian soldiers fell on the bridges, I run out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "998a9bb9-8e17-4de4-aeb2-4215fb67d8a5"
+    },
+    {
+      "start_time": 518.61,
+      "end_time": 545.63,
+      "annotation": [
+        {
+          "text": "\tI grabbed and hugged first soldier and pushed this ID under his nose. He says, you, Ivrit, a Jew? You're a Russian? You must be a German spy. No Jews are supposed to be alive for the German spies. And he grabs me and takes me to the police station. I know this is bad trouble because before they ask any questions, they ship you off to Siberia. And then I had some experience with it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b909bc8d-15ff-4030-9e84-49e2e0e634d6"
+    },
+    {
+      "start_time": 545.63,
+      "end_time": 588.93,
+      "annotation": [
+        {
+          "text": "\tWhen they were with us the first time, I worked with a man. His name is Eichenberg. He died. His wife had parents in Lemberg. And she went to visit them periodically. She went to visit them. But her father, his father-in-law was the previous Polish officer. So one of those days, the Russians decided to arrest all previous Polish officers. They came in to take the father away. She happened to be there on a visit. They took her. She showed them, I am married. I am here only on a visit. Nichego (nothing) Took her Siberia. So I was very much afraid of it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ce79fbb-4899-44b9-aff6-36eb14479eed"
+    },
+    {
+      "start_time": 588.93,
+      "end_time": 620.2,
+      "annotation": [
+        {
+          "text": "\tAnd they made, they made an enemy. Of course, this man always wished, the Germans will come in. They will show them how to have order. The Germans came in and they killed him. So I was afraid to be caught by the Russians. I had with me a little bit of samagon. samagon is called-- what do you call here whiskey which was made in the field somewhere by the peasants? Hooch, they call it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b1fe9de3-1922-417c-8a7b-3590db935a7a"
+    },
+    {
+      "start_time": 620.2,
+      "end_time": 621.12,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Moonshine.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "a712d3fb-2d3f-4a2e-bd9a-5ea17bebdeb0"
+    },
+    {
+      "start_time": 621.12,
+      "end_time": 664.42,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Shine. Shine. Moonshine. Moonshine. I had a little bit, a little bottle of moonshine with me I carried with me always. If I am wounded, if I have to die, just to-- and a few lumps of sugar. I pushed it to the Russian soldier and said, look, I am a friend. He took it and let me go. I never got near to Russian police since that time, anymore. Anyway, they came and they liberated us. I wanted to make-- and since that time, we only waited for the possibility to get rid of them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4d0b7f69-ff67-41ff-8910-1755751c57db"
+    },
+    {
+      "start_time": 664.42,
+      "end_time": 696.99,
+      "annotation": [
+        {
+          "text": "\tSince I am a Polish citizen by birth and this part was Ukraine, I tried to get some papers as a Pole. And I got them as a Pole. And I was transferred. I was permitted to transfer to the Polish side. Now this is, it's comic. Once you get these papers, Russia, you have to vacate your apartment. You cease for them to exist. You are now going to the Polish side.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "aea38f4a-1996-4e35-abc5-07e8a7f27e2d"
+    },
+    {
+      "start_time": 696.99,
+      "end_time": 726.84,
+      "annotation": [
+        {
+          "text": "\tBut the train for the Polish side hasn't appeared yet. So we camped for three weeks at the railroad station. It was rain and shine. We built such little shacks the way you see them all like in Brazilia and all them-- tar paper shacks out of a piece of cardboard-- the worst slums. And we lived down there, I believe two or three weeks, until our train came and took us over to the Polish side.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "30c30071-fb44-432e-a1db-c83175b672c5"
+    },
+    {
+      "start_time": 726.84,
+      "end_time": 769.99,
+      "annotation": [
+        {
+          "text": "\tFrom the Polish side, we went to Germany. There was nothing to do in Poland. The Polish were tremendous anti-Semites. They killed Jews who had just, just survived all these things. They were killed by Poles. Killed by Poles. There was tragic stories, a young girl who had found her husband and she was pregnant and so on. They found that she was Jewish. They had taken her away. She begged them. Look, we just survived. My husband just came back. Nothing doing. They killed them.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f8ee5ec4-5af6-450c-b925-f780974fa5fb"
+    },
+    {
+      "start_time": 769.99,
+      "end_time": 811.94,
+      "annotation": [
+        {
+          "text": "\tSo we went over to the German side and we tried to reach the Americans, the side which is now called West Germany, which is populated-- not populated, which was controlled by America. This way we came to Munich. In Munich, I got a job as director of an ort school, O-R-T school. We built up this school. I had some 2000 students, many of them are here in New York in professions quite successful. We had some 180 or 190 teachers. We built a beautiful school. And then I emigrated to the United States in 1949.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "81c04765-84d8-4f80-8285-14d37cd4527f"
+    },
+    {
+      "start_time": 811.94,
+      "end_time": 814.25,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: So you were for several years in Munich.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ec7bc6e-f7d1-46f4-a360-791db569f657"
+    },
+    {
+      "start_time": 814.25,
+      "end_time": 863.09,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: In Germany. In Munich. And then I emigrated to the United States. I cannot forgive myself that I did not try to help Afred Fischer any more than I did. I tried to send food packages. I tried to get him a decent job. One of my aunts, who was in Israel at that time, had repossessed a house which he used to have in Berlin before the war. I tried to give him, to get him some job as a sort of, not maintenance man, but manager of this house or something. I wasn't too successful. And I am not so sure that he is alive anymore. But he was a very good man, a very decent man, which should be noticed.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "1fbc2bed-4b57-41f1-9fd8-919f65e88a20"
+    },
+    {
+      "start_time": 863.09,
+      "end_time": 869.74,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: He was one of the people who really afforded you the opportunity to see what was going on outside of the camp and get information.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "121bb96c-6958-4ca6-aa91-22c4f7ef9335"
+    },
+    {
+      "start_time": 869.74,
+      "end_time": 921.65,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yes. Yes. And he was, he was a good man. I wrote to the Yad Vashem and I told them, Rabbi [INAUDIBLE] one of our old wise rabbis-- and I mean rabbis, teachers. These are not the rabbis from today who are catering establishment executives. These were teachers. They were original thinkers and philosophers in the way of Aristotle and Socrates, who worked all day long in the fields or in professions. And at night, they gathered and they talked about human behavior.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3692f042-8f25-4603-ba55-2d1ad39330cf"
+    },
+    {
+      "start_time": 921.65,
+      "end_time": 988.25,
+      "annotation": [
+        {
+          "text": "\tSo it says in one of the Pirkei Avot. Rabbi Yohanan Ben Zakai collected his students and said to them, go out and see which way a man should live to earn the title of a just man. And they went out. And they came back. And they were all philosophers in their own right. So they came back with smart answers. Some of them said a right man pays his debts. And rabbi says he's right. Another man sent came back, a smart man doesn't make any, doesn't talk badly about his neighbors, doesn't spread some bad talk. Some other man said a good man studies the Torah.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "b474e735-8572-4913-acf9-381ec7628d9a"
+    },
+    {
+      "start_time": 988.25,
+      "end_time": 1044.51,
+      "annotation": [
+        {
+          "text": "\tAnd Rabbi Yohanan Ben Zakai you're all right to all. Finally, one stood up and said a bad man has a good heart-- and a good man has a good heart. And Rabbi Yohanan Ben Zakai said, this is the answer I was waiting for. A good man has a good heart, does everything you said, and much, much more. And I was convinced that Alfred Fischer was a man with a good heart. Unfortunately, I couldn't do more for him. I am now engaged in a controversy with the Yad Vashem to grant him, I believe posthumously-- he is not alive anymore-- the title of a Righteous Man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "32c0e989-f2a2-4c37-9fd9-09ef92bfe8ed"
+    },
+    {
+      "start_time": 1044.51,
+      "end_time": 1061.46,
+      "annotation": [
+        {
+          "text": "\tNow I brought you here a book, which is called "
+        },
+        {
+          "text": "Antworte",
+          "italic": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Mensch.",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "98cb39cc-b4c8-4204-acaa-37fbfe2e6abe"
+    },
+    {
+      "start_time": 1061.46,
+      "end_time": 1064.1,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Can you tell us what the book is about and who wrote the book?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e8392129-e34b-442e-bda1-f18b080b1113"
+    },
+    {
+      "start_time": 1064.1,
+      "end_time": 1101.55,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Yes. Now, this book means, antworte mensch means in English men-- trouble collecting myself-- men be responsible. It is written by a German lady by the name of Renate Reincke. She is the daughter of an assessment, who committed suicide at the end of the war. She heard about the injustices and she tried to look into it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "78375ed8-e3e9-435b-bc20-aeb4111c466e"
+    },
+    {
+      "start_time": 1101.55,
+      "end_time": 1146.08,
+      "annotation": [
+        {
+          "text": "\tAnd at that particular time, somewhere 1965 or '66, there was in Germany going on a court procedure against a man called Hildebrandt. This Hildebrandt happened to be the head of the gestapo in Drohobycz in Borysław and all the surrounding area. Renate heard about it and heard that witnesses are being invited by the German government to testify for or against it. She was very much convinced that Hildebrandt is guilty. And she felt that it's her duty to help to bring a guilty man to justice.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e08e08a5-0d9e-4034-b1f9-7402676bd1bd"
+    },
+    {
+      "start_time": 1146.08,
+      "end_time": 1184.47,
+      "annotation": [
+        {
+          "text": "\tSo she stood every day at the court. And when these witnesses came in, many of them couldn't speak very well German. Many of them had no place where to stay. Many of them were confused and afraid. She would take them home. She would feed them. She would help them with their testimony. And finally, when the whole court procedures were done, Hildebrandt was finally condemned by the court. Well, for a very, very, very minor-- they said he shot one Jew.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "71732395-290b-47ff-af9a-1642721feb62"
+    },
+    {
+      "start_time": 1184.47,
+      "end_time": 1221.94,
+      "annotation": [
+        {
+          "text": "\tWell, he's guilty in the death of many, many Jews. But he personally, and the public prosecutor-- not the prosecutor, his defender-- would try to scare off the witnesses. Did you see how he put the pistol to the Jew's head? Now, who could see it? Who could dare? Who would dare? Supposedly, you were hidden somewhere in a spot where you could look out. Would you dare to look the German in the eyes he was shooting? How could you say yes under oath? So many people had to say no on the basis of this, so the verdict got a light sentence.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f0830021-24eb-4731-871e-b0a5d791429f"
+    },
+    {
+      "start_time": 1221.94,
+      "end_time": 1245.46,
+      "annotation": [
+        {
+          "text": "\tWell, Renata was very much convinced that this is not the right way to handle it. She collected all these things in this book, "
+        },
+        {
+          "text": "Antworte",
+          "italic": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Mensch,",
+          "italic": true
+        },
+        {
+          "text": " which she published at her own expense and she gave out to all the witnesses and anyone who wanted to have it. And I gave you the address. If you want to, you only have to write to her and she will mail you this book.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "433d799f-52d4-45b9-b4d2-16654d8b4a6e"
+    },
+    {
+      "start_time": 1245.46,
+      "end_time": 1278.19,
+      "annotation": [
+        {
+          "text": "\tI thought for a while, maybe this book could be translated into English. But I don't believe there is enough interest in this country after all to read some old witness procedures from a German court. They are not that interesting. And they all point to one thing, that the Jewish population of Borysław was annihilated. And so was the Jewish population of Drohobycz and Stryj and Stanisławów and so on and so forth.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "275c9e7a-a37c-41c5-ac46-f4662b068275"
+    },
+    {
+      "start_time": 1278.19,
+      "end_time": 1318.07,
+      "annotation": [
+        {
+          "text": "\tMy reason for appearance today is I wanted to make sure-- I don't know if I did-- to stress the point that we should have resisted much more strongly than we did. And we didn't because the Russians have conditioned it to us. The Russians, with their proceeding occupation, have changed us into a bunch of low animals. I don't know, probably lower than rats. Because I read that when rats are pushed towards the wall, they will rear up on their legs and they will show their teeth and they will try to bite.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3a42a395-0a06-4ebc-a9ac-3dcde6c945b2"
+    },
+    {
+      "start_time": 1318.07,
+      "end_time": 1354.27,
+      "annotation": [
+        {
+          "text": "\tThe Russians have methods, and the best proof is right in the Russian history of the last 40 years, where upon they can take a whole population of intelligent-- the Russians are intelligent people, individually, when you talk to them-- and condition them in such a way that you can commit tremendous atrocities against them, the biggest cruelties. They are not going to react. They will just be satisfied if you let them live another day. And I hope, I hope I made this point.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "32c3c363-d251-480a-8848-f0bc56d43602"
+    },
+    {
+      "start_time": 1354.27,
+      "end_time": 1406.18,
+      "annotation": [
+        {
+          "text": "\tBecause actually, that's all-- that the Germans were murderous is all known. There's no secret to it. The Russian role in our calamity, the Germans call it Gewaltherr -- The Germans have a special word for Holocaust. They call it Gewaltherrschaft. Gewaltherrschaft means the rule by brutal force. This -- the, the, the Russian role in this Gewaltherrschaft is essentially not known. The Russians even pride themselves. We liberated you. They didn't liberate us. We happened to survive because of some skill, of some good luck, of some happy coincidence. I think they helped to kill us.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f0719a5-e645-4230-a601-acf0869f71de"
+    },
+    {
+      "start_time": 1406.18,
+      "end_time": 1441.01,
+      "annotation": [
+        {
+          "text": "\tMy father was a very strong man. He was a building contractor who could lift a four by four inch, six meters, 20 feet long on his shoulder, cart it to the next place, work from 4:00 in the morning to 12:00 at night. But the Russians broke his spirit. When they came in, suddenly, not only was he not an owner, he wasn't permitted to live. Every night they came in and tried to arrest him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "241276dc-f5ea-4051-b448-1cdfb20c3392"
+    },
+    {
+      "start_time": 1441.01,
+      "end_time": 1472.79,
+      "annotation": [
+        {
+          "text": "\tEvery night he slept on the roof because they wouldn't go up on the roof to look. Or he went to my sister's cinema and sat there all night long in the cinema. Or he sat outside under a tree. Because every night they came in regularly to hunt for him. When the Germans finally came in, a strong man like him probably could have survived. He was so broken. He was so downhearted that he was practically more dead than alive.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "f193e4da-274f-46c8-9dce-652e69cb8632"
+    },
+    {
+      "start_time": 1472.79,
+      "end_time": 1520.95,
+      "annotation": [
+        {
+          "text": "\tAnd so what happened with my brother, my sister, they were all so convinced that-- they were all very energetic and enterprising people. My uncles, they were all foresters. Their spirit was broken. And in human life, the spirit is one of the most important things. This I can testify from original experience. One can live on a little piece of sugar, on a crumb of bread and a little bit of water and one certainly doesn't die. But if one's spirit is broken, one dies.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "58772b5c-162b-4b2a-aed3-bfebe3efa907"
+    },
+    {
+      "start_time": 1520.95,
+      "end_time": 1552.99,
+      "annotation": [
+        {
+          "text": "\tI had a friend, an engineer who was a chemist, a bright young man, very healthy. But he ceased to believe that he will survive. He kept telling me, if it's not today, it's tomorrow. If it's not tomorrow, it's the day after tomorrow. So he stopped washing himself. He neglected his appearance. He became what we call the Musselman. He didn't shave. It wasn't so simple to be shaved. Where do you get a razor blade? Where do you get soap?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "414d95f5-d643-462a-a303-a171b672c1cb"
+    },
+    {
+      "start_time": 1552.99,
+      "end_time": 1583.75,
+      "annotation": [
+        {
+          "text": "\tBut if one tried, if one-- I don't know. We gave away butter to get, to make soap. We made soap out of butter. If we had a little piece of crumble, it was saved and soap was made to keep oneself clean, just to be clean. And he died because of this. And once he once was neglected, they didn't look at all these things. If one wasn't clean shaven and this, they just threw all the papers away and executed him.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a4ce3ea-0b0b-479d-9527-1704c74bca33"
+    },
+    {
+      "start_time": 1583.75,
+      "end_time": 1589.84,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Did you have thoughts about what was going on beyond your particular area at the time?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d29b2568-4861-4282-bdaf-4e7fbbc9e190"
+    },
+    {
+      "start_time": 1589.84,
+      "end_time": 1624.44,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: We were able to listen to radio, clandestine. There was even a clandestine radio. I would like to tell this story. There is one particular story, which I would like to tell you. I was the head-- during the time before the camp started, I was head of a workshop. As I told you, I had 40 people. We were given scraps of metals and we made shovels for the German army. And from time to time, we could steal a shovel and barter it for a piece of bread.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "42ad8e36-b031-47c7-85f8-ee9007593f2e"
+    },
+    {
+      "start_time": 1624.44,
+      "end_time": 1669.51,
+      "annotation": [
+        {
+          "text": "\tAnd one of my workers down there was a young, blond-eyed-- or green-eyed-- very, very handsome young man, very, very handsome young man. I think his name was Hoffmann. Yes, his name was Hoffmann. He was an excellent football player, very handsome. And he wanted to resist in a way. He carried with him a little pistol or a knife and I don't know, somehow, somebody betrayed. And he never came to the camp. He just came in and smuggled himself out and lived somewhere in the woods and just came in to get some food and so on and so forth.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e935ca78-22cc-4bdd-8bca-a1483a550dcd"
+    },
+    {
+      "start_time": 1669.51,
+      "end_time": 1709.79,
+      "annotation": [
+        {
+          "text": "\tOne of those days he was caught. He was caught and fiercely beaten. And he was most fiercely beaten by the Jewish camp commandant, whose name was Walter Eisenstein, whom later the Jews killed. And it served him right. He was finally caught, brought into our camp. And in our camp was a little prison where they, if they had to imprison somebody, they kept him down there. They beat him so savagely, one of his eyes fell out.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e59ca15d-38ae-45a7-9dbe-08f90d90c082"
+    },
+    {
+      "start_time": 1709.79,
+      "end_time": 1746.97,
+      "annotation": [
+        {
+          "text": "\tAnd the camp, the SS camp commander, who was a very bad shot, finally decided to shoot him. But he couldn't take good aim. And he only wounded him. He fell down. As he fell down and the people carried him away, he begged them in a whisper. Just let me lie down there because I will later escape. But Walter Eisenstein, who heard it, he brought in the camp doctor. And the doctor said the guy is not dead. And they put another bullet through his hole.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a80029a-3710-412c-bb20-109fb71aa944"
+    },
+    {
+      "start_time": 1746.97,
+      "end_time": 1776.9,
+      "annotation": [
+        {
+          "text": "\tNow, this guy has even a more interesting story to himself. He was already once caught before. He was caught by the German police. And he was undressed completely naked and put-- at that time, gasoline was very scarce. So they wanted to carry him out, to drive him out to the cemetery to shoot him on the cemetery. He was undressed until he was completely naked.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bd3a987-0c7b-4af5-8926-7633cf38ffca"
+    },
+    {
+      "start_time": 1776.9,
+      "end_time": 1802.91,
+      "annotation": [
+        {
+          "text": "\tThey threw a blanket over his head, tied his hands, set him on the seat of a motorcycle. And a German policeman was driving the motorcycle. And he was supposed to bring him. This fellow was very smart. And when they came close to the Jewish cemetery, he somehow could figure out where they are. He threw the blanket over the German so the German lost his balance and fell off.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e4b302f0-b2db-46b7-bbcf-ff4ab4aa5bec"
+    },
+    {
+      "start_time": 1802.91,
+      "end_time": 1834.18,
+      "annotation": [
+        {
+          "text": "\tHe jumped off the motorcycle, and naked as he was-- and this was early winter-- jumped over the fence in the cemetery and hid out in the cemetery. For two days he hid out naked. And some people came by and gave him some clothes. And later on, he died, is dead. His name was Hoffman. Very, very-- very brave young man.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "ecd6dbda-a8e3-4884-b8d4-f68d671c0f19"
+    },
+    {
+      "start_time": 1834.18,
+      "end_time": 1837.9,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Are you in contact with other survivors from Boryslav\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "4364e9ff-daf3-42ea-bc2f-c2e875562bd3"
+    },
+    {
+      "start_time": 1837.9,
+      "end_time": 1900.36,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Oh, yes. We have here, we built here on a cemetery in Long Island, we built here a stone on which we engraved the name of all the families from Borislav. And every year in May we hold a-- what is it called-- a commemorative service where we go together and we commemorate. Now, on this tape here, I have-- you can keep this tape if you wish to-- I have set practically the same, but maybe it is a little bit better organized on the tape. So if you need it, you can keep it.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2320e68-0625-4ace-8ddf-e56f6ef1babb"
+    },
+    {
+      "start_time": 1900.36,
+      "end_time": 1905.74,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: I thank you for that. And I thank you for sharing your--\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e600c2b-eb1f-4925-b00a-886c9dbd7840"
+    },
+    {
+      "start_time": 1905.74,
+      "end_time": 1906.32,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: I am sorry.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "637cb464-a402-4a05-ad27-949442b40d94"
+    },
+    {
+      "start_time": 1906.32,
+      "end_time": 1906.89,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: History.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe34386d-2dcb-4ef2-bf17-1be82d1ef63a"
+    },
+    {
+      "start_time": 1906.89,
+      "end_time": 1918.55,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: I cannot collect myself sometimes so well. One is overcome.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "58ffb119-99d3-43be-8077-6daf5b19b465"
+    },
+    {
+      "start_time": 1918.55,
+      "end_time": 1924.285,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: I think it was a very important story to tell. And again, I thank you very much for participating in this project.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ee797af-5b0c-4a1e-903e-f061a72335ff"
+    },
+    {
+      "start_time": 1924.285,
+      "end_time": 1930.68,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: OK. You're most welcome.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "11b37f2d-e16f-40fc-bd7f-61f2df1fab9c"
+    },
+    {
+      "start_time": 1930.68,
+      "end_time": 1932.14,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Anything else you want to add?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "054b0282-81c7-44e1-816e-a1cec5d0bf81"
+    },
+    {
+      "start_time": 1932.14,
+      "end_time": 1935.81,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: There is a copy of the, did I give you a copy of the translation?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "cbe075b3-17e8-4d51-879c-f8b7abfe74e1"
+    },
+    {
+      "start_time": 1935.81,
+      "end_time": 1941.69,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Yes. We have both English and the original German.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8494a0bb-b940-4866-bb5e-64910e3a9b27"
+    },
+    {
+      "start_time": 1941.69,
+      "end_time": 1942.92,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: And German. Good.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "56f72252-7705-44b9-b2c5-75fbf282f5f2"
+    },
+    {
+      "start_time": 1942.92,
+      "end_time": 1946.31,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: Copy of your testimony to the Germans.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "34ef69de-f9de-4e08-b659-36b511650fa8"
+    },
+    {
+      "start_time": 1946.31,
+      "end_time": 1947.224,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: Fine.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "8f97230e-bb1e-4d4a-a5fa-fa0dc2502c8b"
+    },
+    {
+      "start_time": 1947.224,
+      "end_time": 1948.31,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER 2: Which was taken when?\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "aea1740a-9036-4296-8079-52cc682238b5"
+    },
+    {
+      "start_time": 1948.31,
+      "end_time": 1952.645,
+      "annotation": [
+        {
+          "text": "\tINTERVIEWER: In 1946, in Munich, you gave testimony to the Germans.\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "e92e9845-44c1-4760-ad77-683323dff019"
+    },
+    {
+      "start_time": 1952.645,
+      "end_time": 1981.38,
+      "annotation": [
+        {
+          "text": "\tSUBJECT: That's right. 1947, to the Jewish committee."
+        }
+      ],
+      "tags": [],
+      "uuid": "5f886219-3be2-4dc5-9f1f-94a7e7762d93"
+    }
+  ]
+}

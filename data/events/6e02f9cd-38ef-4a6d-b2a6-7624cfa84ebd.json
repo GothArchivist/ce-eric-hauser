@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "748cb50b-ae0c-4dd2-94de-ff755bc3e37e": {
+      "label": "AV File 2",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/094/913/original/open-uri20200721-25675-dl0cer.mov?1595320087",
+      "duration": 1981.18167,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Part 2 of 2"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-23T15:14:47.202Z",
+  "created_by": "GothArchivist",
+  "label": "Media File 2 of 2 - open-uri20200721-25675-dl0cer.mov",
+  "updated_at": "2026-02-23T15:14:47.202Z",
+  "updated_by": "GothArchivist",
+  "rights_statement": ""
+}
